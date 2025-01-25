@@ -1,0 +1,74 @@
+{
+  "히카리": {
+    "hard": false,
+    "step": 36.89532001749526
+  },
+  "타이리츠": {
+    "hard": false,
+    "step": 80
+  },
+  "코우": {
+    "hard": false,
+    "step": 76
+  },
+  "히카리와 타이리츠 (Reunion)": {
+    "hard": false,
+    "step": 70.5
+  },
+  "타이리츠 (Axium)": {
+    "hard": false,
+    "step": 60
+  },
+  "타이리츠 (Grievous Lady)": {
+    "hard": true,
+    "step": 102
+  },
+  "에토": {
+    "hard": false,
+    "step": 49.80062691354425
+  },
+  "루나": {
+    "hard": false,
+    "step": 42.5
+  },
+  "히카리 (Zero)": {
+    "hard": false,
+    "step": 48.79822131506051
+  },
+  "히카리 (Fracture)": {
+    "hard": false,
+    "step": 80.89174806823152
+  },
+  "사야": {
+    "hard": false,
+    "step": 59
+  },
+  "타이리츠 & 츄니펭귄 (Grievous Lady)": {
+    "hard": false,
+    "step": 62
+  },
+  "타이리츠 (Tempest)": {
+    "hard": true,
+    "step": 117.5
+  },
+  "앨리스 & 테니얼": {
+    "hard": false,
+    "step": 32.5
+  },
+  "루나 & 미아": {
+    "hard": false,
+    "step": 32.5
+  },
+  "마야": {
+    "hard": false,
+    "step": 31.572313748359818
+  },
+  "고독 (초월자 - 여섯 번째 추적자)": {
+    "hard": true,
+    "step": 72
+  },
+  "애시드": {
+    "hard": true,
+    "step": 24
+  }
+}

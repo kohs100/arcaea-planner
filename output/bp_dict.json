@@ -1,0 +1,792 @@
+{
+  "10": [
+    [
+      "Paradise",
+      "[PST]"
+    ]
+  ],
+  "15": [
+    [
+      "Sayonara Hatsukoi",
+      "[PST]"
+    ]
+  ],
+  "20": [
+    [
+      "Flashback",
+      "[PST]"
+    ],
+    [
+      "Suomi",
+      "[PST]"
+    ]
+  ],
+  "25": [
+    [
+      "Alice a la mode",
+      "[PST]"
+    ],
+    [
+      "Beside You",
+      "[PST]"
+    ],
+    [
+      "Diode",
+      "[PST]"
+    ],
+    [
+      "Grimheart",
+      "[PST]"
+    ],
+    [
+      "Nirv lucE",
+      "[PST]"
+    ],
+    [
+      "Strongholds",
+      "[PST]"
+    ],
+    [
+      "WAIT FOR DAWN",
+      "[PST]"
+    ]
+  ],
+  "30": [
+    [
+      "Babaroque",
+      "[PST]"
+    ],
+    [
+      "Galactic Love",
+      "[PST]"
+    ],
+    [
+      "Raven's Pride",
+      "[PST]"
+    ],
+    [
+      "Saint or Sinner",
+      "[PST]"
+    ]
+  ],
+  "35": [
+    [
+      "Alice's Suitcase",
+      "[PST]"
+    ],
+    [
+      "cry of viyella",
+      "[PST]"
+    ],
+    [
+      "Equilibrium",
+      "[PST]"
+    ],
+    [
+      "Hypnotize",
+      "[PST]"
+    ],
+    [
+      "I've heard it said",
+      "[PST]"
+    ],
+    [
+      "Technicolour",
+      "[PST]"
+    ],
+    [
+      "world.execute(me);",
+      "[PST]"
+    ]
+  ],
+  "40": [
+    [
+      "BADTEK",
+      "[PST]"
+    ],
+    [
+      "Felis",
+      "[PST]"
+    ],
+    [
+      "FREEF4LL",
+      "[PST]"
+    ],
+    [
+      "GOODTEK (Arcaea Edit)",
+      "[PST]"
+    ],
+    [
+      "Jump",
+      "[PST]"
+    ],
+    [
+      "Last",
+      "[PST]"
+    ],
+    [
+      "Lost Desire",
+      "[PST]"
+    ],
+    [
+      "Straight into the lights",
+      "[PST]"
+    ],
+    [
+      "Vindication",
+      "[PST]"
+    ],
+    [
+      "Paradise",
+      "[PRS]"
+    ]
+  ],
+  "45": [
+    [
+      "Antagonism",
+      "[PST]"
+    ],
+    [
+      "Arcahv",
+      "[PST]"
+    ],
+    [
+      "next to you",
+      "[PST]"
+    ],
+    [
+      "PRAGMATISM",
+      "[PST]"
+    ],
+    [
+      "Renegade",
+      "[PST]"
+    ],
+    [
+      "Singularity",
+      "[PST]"
+    ],
+    [
+      "Sayonara Hatsukoi",
+      "[PRS]"
+    ]
+  ],
+  "50": [
+    [
+      "Astral Quantization",
+      "[PST]"
+    ],
+    [
+      "Flashback",
+      "[PRS]"
+    ],
+    [
+      "Grimheart",
+      "[PRS]"
+    ],
+    [
+      "Strongholds",
+      "[PRS]"
+    ],
+    [
+      "Suomi",
+      "[PRS]"
+    ],
+    [
+      "world.execute(me);",
+      "[PRS]"
+    ]
+  ],
+  "55": [
+    [
+      "#1f1e33",
+      "[PST]"
+    ],
+    [
+      "Abstruse Dilemma",
+      "[PST]"
+    ],
+    [
+      "Axium Crisis",
+      "[PST]"
+    ],
+    [
+      "Ether Strike",
+      "[PST]"
+    ],
+    [
+      "Halcyon",
+      "[PST]"
+    ],
+    [
+      "Judgement",
+      "[PST]"
+    ],
+    [
+      "Ringed Genesis",
+      "[PST]"
+    ],
+    [
+      "Sheriruth",
+      "[PST]"
+    ],
+    [
+      "Diode",
+      "[PRS]"
+    ]
+  ],
+  "60": [
+    [
+      "Fracture Ray",
+      "[PST]"
+    ],
+    [
+      "Alice's Suitcase",
+      "[PRS]"
+    ],
+    [
+      "Beside You",
+      "[PRS]"
+    ],
+    [
+      "cry of viyella",
+      "[PRS]"
+    ],
+    [
+      "I've heard it said",
+      "[PRS]"
+    ],
+    [
+      "Jump",
+      "[PRS]"
+    ],
+    [
+      "Saint or Sinner",
+      "[PRS]"
+    ]
+  ],
+  "65": [
+    [
+      "Grievous Lady",
+      "[PST]"
+    ],
+    [
+      "Lament Rain",
+      "[PST]"
+    ],
+    [
+      "Alice a la mode",
+      "[PRS]"
+    ],
+    [
+      "Babaroque",
+      "[PRS]"
+    ],
+    [
+      "Equilibrium",
+      "[PRS]"
+    ],
+    [
+      "Galactic Love",
+      "[PRS]"
+    ],
+    [
+      "GOODTEK (Arcaea Edit)",
+      "[PRS]"
+    ],
+    [
+      "Vindication",
+      "[PRS]"
+    ]
+  ],
+  "70": [
+    [
+      "Tempestissimo",
+      "[PST]"
+    ],
+    [
+      "BADTEK",
+      "[PRS]"
+    ],
+    [
+      "FREEF4LL",
+      "[PRS]"
+    ],
+    [
+      "Hypnotize",
+      "[PRS]"
+    ],
+    [
+      "Last",
+      "[PRS]"
+    ],
+    [
+      "next to you",
+      "[PRS]"
+    ],
+    [
+      "Nirv lucE",
+      "[PRS]"
+    ],
+    [
+      "Raven's Pride",
+      "[PRS]"
+    ],
+    [
+      "Technicolour",
+      "[PRS]"
+    ],
+    [
+      "Sayonara Hatsukoi",
+      "[FTR]"
+    ]
+  ],
+  "75": [
+    [
+      "Arghena",
+      "[PST]"
+    ],
+    [
+      "Designant.",
+      "[PST]"
+    ],
+    [
+      "Felis",
+      "[PRS]"
+    ],
+    [
+      "Sheriruth",
+      "[PRS]"
+    ],
+    [
+      "Straight into the lights",
+      "[PRS]"
+    ]
+  ],
+  "78": [
+    [
+      "Testify",
+      "[PST]"
+    ],
+    [
+      "Antagonism",
+      "[PRS]"
+    ],
+    [
+      "Arcahv",
+      "[PRS]"
+    ],
+    [
+      "Lost Desire",
+      "[PRS]"
+    ],
+    [
+      "Renegade",
+      "[PRS]"
+    ],
+    [
+      "Singularity",
+      "[PRS]"
+    ],
+    [
+      "WAIT FOR DAWN",
+      "[PRS]"
+    ],
+    [
+      "Paradise",
+      "[FTR]"
+    ],
+    [
+      "Suomi",
+      "[FTR]"
+    ]
+  ],
+  "80": [
+    [
+      "world.execute(me);",
+      "[FTR]"
+    ]
+  ],
+  "81": [
+    [
+      "Astral Quantization",
+      "[PRS]"
+    ],
+    [
+      "Diode",
+      "[FTR]"
+    ],
+    [
+      "I've heard it said",
+      "[FTR]"
+    ]
+  ],
+  "82": [
+    [
+      "Halcyon",
+      "[PRS]"
+    ]
+  ],
+  "83": [
+    [
+      "Ether Strike",
+      "[PRS]"
+    ]
+  ],
+  "84": [
+    [
+      "Ringed Genesis",
+      "[PRS]"
+    ]
+  ],
+  "85": [
+    [
+      "Axium Crisis",
+      "[PRS]"
+    ],
+    [
+      "Babaroque",
+      "[FTR]"
+    ],
+    [
+      "Sayonara Hatsukoi",
+      "[ETR]"
+    ]
+  ],
+  "86": [
+    [
+      "Judgement",
+      "[PRS]"
+    ],
+    [
+      "PRAGMATISM",
+      "[PRS]"
+    ],
+    [
+      "FREEF4LL",
+      "[FTR]"
+    ]
+  ],
+  "87": [
+    [
+      "Beside You",
+      "[FTR]"
+    ],
+    [
+      "cry of viyella",
+      "[FTR]"
+    ],
+    [
+      "Grimheart",
+      "[FTR]"
+    ],
+    [
+      "WAIT FOR DAWN",
+      "[FTR]"
+    ]
+  ],
+  "88": [
+    [
+      "Lament Rain",
+      "[PRS]"
+    ],
+    [
+      "next to you",
+      "[FTR]"
+    ],
+    [
+      "Saint or Sinner",
+      "[FTR]"
+    ]
+  ],
+  "89": [
+    [
+      "Abstruse Dilemma",
+      "[PRS]"
+    ],
+    [
+      "Flashback",
+      "[FTR]"
+    ],
+    [
+      "Hypnotize",
+      "[FTR]"
+    ],
+    [
+      "Suomi",
+      "[ETR]"
+    ]
+  ],
+  "90": [
+    [
+      "Galactic Love",
+      "[FTR]"
+    ],
+    [
+      "Jump",
+      "[FTR]"
+    ],
+    [
+      "Last",
+      "[FTR]"
+    ]
+  ],
+  "91": [
+    [
+      "Alice's Suitcase",
+      "[FTR]"
+    ]
+  ],
+  "92": [
+    [
+      "#1f1e33",
+      "[PRS]"
+    ],
+    [
+      "Alice a la mode",
+      "[FTR]"
+    ],
+    [
+      "Strongholds",
+      "[FTR]"
+    ]
+  ],
+  "93": [
+    [
+      "Grievous Lady",
+      "[PRS]"
+    ],
+    [
+      "GOODTEK (Arcaea Edit)",
+      "[FTR]"
+    ]
+  ],
+  "94": [
+    [
+      "Testify",
+      "[PRS]"
+    ],
+    [
+      "Equilibrium",
+      "[FTR]"
+    ],
+    [
+      "Raven's Pride",
+      "[FTR]"
+    ]
+  ],
+  "95": [
+    [
+      "Fracture Ray",
+      "[PRS]"
+    ],
+    [
+      "Tempestissimo",
+      "[PRS]"
+    ],
+    [
+      "Straight into the lights",
+      "[FTR]"
+    ]
+  ],
+  "96": [
+    [
+      "Arghena",
+      "[PRS]"
+    ],
+    [
+      "Designant.",
+      "[PRS]"
+    ],
+    [
+      "Renegade",
+      "[FTR]"
+    ],
+    [
+      "Vindication",
+      "[FTR]"
+    ],
+    [
+      "next to you",
+      "[BYD]"
+    ]
+  ],
+  "97": [
+    [
+      "BADTEK",
+      "[FTR]"
+    ]
+  ],
+  "98": [
+    [
+      "Lost Desire",
+      "[FTR]"
+    ],
+    [
+      "Technicolour",
+      "[FTR]"
+    ],
+    [
+      "FREEF4LL",
+      "[BYD]"
+    ],
+    [
+      "GOODTEK (Arcaea Edit)",
+      "[BYD]"
+    ]
+  ],
+  "99": [
+    [
+      "Antagonism",
+      "[FTR]"
+    ],
+    [
+      "Arcahv",
+      "[FTR]"
+    ],
+    [
+      "Hypnotize",
+      "[ETR]"
+    ]
+  ],
+  "100": [
+    [
+      "Sheriruth",
+      "[FTR]"
+    ]
+  ],
+  "101": [
+    [
+      "PRAGMATISM",
+      "[FTR]"
+    ]
+  ],
+  "102": [
+    [
+      "Nirv lucE",
+      "[FTR]"
+    ],
+    [
+      "Renegade",
+      "[BYD]"
+    ]
+  ],
+  "103": [
+    [
+      "Ether Strike",
+      "[FTR]"
+    ]
+  ],
+  "104": [
+    [
+      "Felis",
+      "[FTR]"
+    ]
+  ],
+  "105": [
+    [
+      "Halcyon",
+      "[FTR]"
+    ],
+    [
+      "Judgement",
+      "[FTR]"
+    ],
+    [
+      "Singularity",
+      "[FTR]"
+    ],
+    [
+      "Straight into the lights",
+      "[ETR]"
+    ]
+  ],
+  "106": [
+    [
+      "Astral Quantization",
+      "[FTR]"
+    ],
+    [
+      "Axium Crisis",
+      "[FTR]"
+    ],
+    [
+      "Lament Rain",
+      "[FTR]"
+    ]
+  ],
+  "107": [
+    [
+      "Tempestissimo",
+      "[FTR]"
+    ]
+  ],
+  "108": [
+    [
+      "Ringed Genesis",
+      "[FTR]"
+    ]
+  ],
+  "109": [
+    [
+      "Designant.",
+      "[FTR]"
+    ],
+    [
+      "Testify",
+      "[FTR]"
+    ]
+  ],
+  "110": [],
+  "111": [
+    [
+      "#1f1e33",
+      "[FTR]"
+    ],
+    [
+      "Fracture Ray",
+      "[FTR]"
+    ],
+    [
+      "Grievous Lady",
+      "[FTR]"
+    ]
+  ],
+  "112": [],
+  "113": [
+    [
+      "Abstruse Dilemma",
+      "[FTR]"
+    ],
+    [
+      "Arghena",
+      "[FTR]"
+    ]
+  ],
+  "114": [
+    [
+      "Lament Rain",
+      "[BYD]"
+    ]
+  ],
+  "115": [],
+  "116": [],
+  "117": [
+    [
+      "Tempestissimo",
+      "[BYD]"
+    ]
+  ],
+  "119": [
+    [
+      "Designant.",
+      "[BYD]"
+    ]
+  ],
+  "120": [
+    [
+      "Testify",
+      "[BYD]"
+    ]
+  ]
+}
