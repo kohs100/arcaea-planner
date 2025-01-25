@@ -2,7 +2,54 @@
 
 Arcaea world mode progress fine tuning calculator.
 
-## Usage
+## Configuration
+
+### 계정 정보 입력
+
+Arcaea 온라인에 로그인된 상태에서 아래 링크에 접속
+
+- https://webapi.lowiro.com/webapi/user/me
+
+json 데이터를 복사하여 `input/me.json` 에 저장
+
+#### 예시 (input/me.json)
+
+```
+{
+  "success": true,
+  "value": {
+    "subscription_multiplier": 120,
+    "is_aprilfools": false,
+    "locked_char_ids": [],
+    "user_missions": [
+      {
+        "status": "claimed",
+        "mission_id": "mission_1_1_tutorial",
+        "_id": "677e7c694fc895025f1e6f78"
+      },
+...
+```
+
+### config.py
+
+```
+LANG = "ko"
+
+# Skip insight(72) and fatalis(55)
+SKIP_IDS = [72, 55]
+
+# 일반 플레이시 점수 범위 가정
+HI_SCORE = 10_000_000
+LO_SCORE = 9_700_000
+
+# 일반 플레이시 BP 범위 가정
+HI_LEVEL = 9.5
+LO_LEVEL = 4
+```
+
+필요에 맞게 설정하기
+
+## Examples
 
 ### 선호곡 플래너
 
