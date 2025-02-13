@@ -1,11 +1,11 @@
 LANG = "ko"
 
 # Skip insight(72) and fatalis(55)
-SKIP_IDS = [72, 55]
+SKIP_IDS = [72]
 
 # 일반 플레이시 점수 범위 가정
 HI_SCORE = 10_000_000
-LO_SCORE = 9_700_000
+LO_SCORE = 9_800_000
 
 # 일반 플레이시 BP 범위 가정
 HI_LEVEL = 9.5

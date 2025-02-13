@@ -27,12 +27,15 @@ def find_play_plan(range_start, range_end, step_list, online_bonus):
 
 
 def main():
-    range_start = float(sys.argv[1])
-    range_size = float(sys.argv[2])
+    multiplier = float(sys.argv[1])
+    range_start = float(sys.argv[2])
+    range_size = float(sys.argv[3])
 
     range_end = range_start + range_size
 
     chara_dict, online_bonus = parse_me(USER_JSON_PATH)
+
+    online_bonus *= multiplier
 
     print("--- 일반 플랜 ---")
     print(f"필요 진행도 범위: {range_start} ~ {range_end}")

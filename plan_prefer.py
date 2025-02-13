@@ -30,12 +30,16 @@ def find_prefer_plan(range_start, range_end, step_list, bp_dict, online_bonus):
 
 
 def main():
-    range_start = float(sys.argv[1])
-    range_size = float(sys.argv[2])
+    multiplier = float(sys.argv[1])
+    range_start = float(sys.argv[2])
+    range_size = float(sys.argv[3])
 
     range_end = range_start + range_size
 
     chara_dict, online_bonus = parse_me(USER_JSON_PATH)
+
+    online_bonus *= multiplier
+
     bp_dict = get_bp_dict()
 
     bp_dict_lo = min(int_bp for int_bp in bp_dict) / 10.0

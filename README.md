@@ -54,7 +54,7 @@ LO_LEVEL = 4
 ### 선호곡 플래너
 
 ```
-$ python plan_prefer.py 17.7 1
+$ python plan_prefer.py 1 17.7 1
 Skipping 히카리 (Fatalis)
 Skipping 혜안 (초월자 - 여덟번째 추적자)
 계정 정보 로드 완료 (https://webapi.lowiro.com/webapi/user/me)
@@ -79,7 +79,7 @@ BP 9.5 17.82 ~ 18.68 | STEP 72.0 [고독 (초월자 - 여섯 번째 추적자)]
 ### 난이도 플래너
 
 ```
-$ python plan_play.py 17.7 4
+$ python plan_play.py 1 17.7 4
 Skipping 히카리 (Fatalis)
 Skipping 혜안 (초월자 - 여덟번째 추적자)
 계정 정보 로드 완료 (https://webapi.lowiro.com/webapi/user/me)
